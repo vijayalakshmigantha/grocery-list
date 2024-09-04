@@ -1,0 +1,23 @@
+.heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+.bg-container {
+    background-color: #03254c;
+    height: 100vh;
+    padding: 20px;
+}
+
+.itemsContainer {
+    background-color: #f5f9fd;
+    height: 230px;
+    width: 300px;
+    margin-left: 77px;
+    border-radius: 8px;
+    margin-top: 18px;
+    padding: 30px;
+    padding-left: 40px;
+}
